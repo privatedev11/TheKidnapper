@@ -1,0 +1,62 @@
+# title The Kidnapper
+# font Press Start 2P
+
+* Who are you?
+    I can't tell you that
+    
+    * Where are we?
+        We're in dark basement in the middle of nowhere. There's nothing to be scared of.
+    * Why are we here?
+        That's nothing for you to worry about.
+    * What do I see?
+        [WhatIsee]
+            Just me. And the creepy crawlies around.
+
+            * Creepy crawlies? Are they dangerous?
+                Don't be silly! As long as you don't annoy them, they will leave you alone.
+            * How did you take me here?
+                I used all the old tricks: knocked you out while you were alone, took you in my van, put you here, and that's it, for now anyway...
+            * What do I do?
+                [WhatIdo]
+                    Not much, really. There are a few things that you can try, though.
+                    
+                    * Can I call someone?
+                        Don't be silly, there's no signal under here. Did those days out to the countryside teach you nothing?
+                    * Can I run?
+                        If you want to die, run. However, it is a painful death...
+                    * Can you take me away?
+                        I could, but I don't want to. Honestly, you get kidnapped and expect your kidnapper to take you away? Tut tut.
+                    * What else can I do?
+                        [WhatelsetoDo]
+                            You can enjoy the peace. Just me and you, calm and quiet. 
+                            * Why are you so cryptic?
+                                I always have been.
+                            * Why did you kidnap me?
+                                It's a long story. You needn't worry about it, however,
+                            * What do you look like?
+                                I look like a human (obviously)
+                            * What if I escape?
+                                [escape]
+                                It's a very hard task to do. Try it!
+                                * I give up.
+                                    [takeyouaway]
+                                    Finally, you said it. Most of my victims die in the first few minutes. You've survived to the very end. Congrats! I will now set you free
+                                    * Wait, you are taking me back?
+                                        Yep.
+                                    * Let's go then!
+                                        As long as you promise to never tell anyone about this.
+                                    * leave
+                                        [endofgame]
+                                            Thank you for playing The Kidnapper! Go to our itch.io page or GitHub repo for updates and more!
+                                   
+                                
+            
+                                                    
+
+                    
+                    
+                    
+                            
+
+            
+            
