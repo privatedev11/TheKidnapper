@@ -1,0 +1,2 @@
+# Where is the source code?
+To make the Windows standalone version of The Kidnapper, I used Nativefier. This means that I cannot share the source. The files it gives you will be in a ```.zip``` file in this branch.
